@@ -3,6 +3,7 @@
 <li><h3><b><a href="https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision">Computer Vision</a></b></h3>
 <ul><li><a href="https://github.com/r-sajal/DeepLearning-/blob/master/ComputerVision/cartoonize.py">Cartoonize (OpenCv)</a></li><br>
 <li><a href="https://github.com/r-sajal/DeepLearning-/blob/master/ComputerVision/ImagePreprocessing">General Image Preprocessing Temp(OpenCv)</a></li><br>
+ <li><a href="https://github.com/r-sajal/DeepLearning-/blob/master/ComputerVision/knn-image-classifier.ipynb">Basic KNN Image Classifier (Sklearn)</a></li><br>
 </ul>
 </li>
   
