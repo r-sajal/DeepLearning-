@@ -5,6 +5,8 @@
 <li><a href="https://github.com/r-sajal/DeepLearning-/blob/master/ComputerVision/ImagePreprocessing">General Image Preprocessing Temp(OpenCv)</a></li><br>
  <li><a href="https://github.com/r-sajal/DeepLearning-/blob/master/ComputerVision/knn-image-classifier.ipynb">Basic KNN Image Classifier (Sklearn)</a></li><br>
  <li><a href="https://github.com/r-sajal/Digit-Recognition-through-image---Coursera">/Digit-Recognition-through-image (Tensorflow)</a></li><br>
+ <li><a href="https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Math%20simple%20expression%20Solver">Simple Math Equation Solver</a></li><br>
+
 </ul>
 </li>
   
