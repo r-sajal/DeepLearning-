@@ -6,6 +6,8 @@
  <li><a href="https://github.com/r-sajal/DeepLearning-/blob/master/ComputerVision/knn-image-classifier.ipynb">Basic KNN Image Classifier (Sklearn)</a></li><br>
  <li><a href="https://github.com/r-sajal/Digit-Recognition-through-image---Coursera">/Digit-Recognition-through-image (Tensorflow)</a></li><br>
  <li><a href="https://github.com/r-sajal/DeepLearning-/tree/master/ComputerVision/Math%20simple%20expression%20Solver">Simple Math Equation Solver</a></li><br>
+ <li><a href="https://gist.github.com/r-sajal/66e235c58d6bd07785385006868decf2">Box Extraction From Image</a><br>
+ You can read blog  --> <a href = "https://www.analyticsvidhya.com/blog/2021/05/enclosed-shape-extraction-from-hand-drawn-images/"> HERE </a></li><br>
 
 </ul>
 </li>
