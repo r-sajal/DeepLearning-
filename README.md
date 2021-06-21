@@ -19,7 +19,7 @@
  <li><a href="https://github.com/r-sajal/Sentiment-Analysis---imdb-review">Sentiment Analysis by Logistic Regression(sklearn and nltk)</a></li><br></ul><br>
  <ul><li><h4>Part 2 </h4>
 <ul><li><a href="https://gist.github.com/r-sajal/62a0efe0fc0f4ef63998ca7865768062">Answer Retrieval from document using Cosine similarity and Euclidean Distance (EASY)</a></li><br>
- <li><a href="#">Answer Retrieval from document using TS-SS Similarity (MODERATE)</a></li><br></ul><br>
+ <li><a href="https://gist.github.com/r-sajal/ad10e098684caa4a068f37f4c52b74a7">Answer Retrieval from document using TS-SS Similarity (MODERATE)</a></li><br></ul><br>
 
  
 </li>
