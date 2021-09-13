@@ -10,6 +10,8 @@
  You can read blog  --> <a href = "https://www.analyticsvidhya.com/blog/2021/05/enclosed-shape-extraction-from-hand-drawn-images/"> HERE </a></li><br>
 <li><a href="https://github.com/r-sajal/DeepLearning-/blob/master/ComputerVision/k-means-blog-tutorial.ipynb">K-Means Clustering and Transfer Learning for Image Classification (Python)</a><br>
  You can read blog  --> <a> HERE </a></li><br>
+ <li><a href="https://github.com/r-sajal/DeepLearning-/blob/master/ComputerVision/k-fold-accuracy-comparison-blog.ipynb">k-fold accuracy comparison</a><br>
+ You can read blog  --> <a> HERE </a></li><br>
 </ul>
 </li>
   
