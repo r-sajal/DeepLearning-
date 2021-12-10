@@ -14,6 +14,8 @@
  You can read blog  --> <a href= "https://www.analyticsvidhya.com/blog/2021/09/how-to-apply-k-fold-averaging-on-deep-learning-classifier/"> HERE </a></li><br>
  <li><a href="https://www.kaggle.com/oossiiris/basic-resnet50-approach">Resnet-50 with Keras</a></li><br>
  <li><a href="https://www.kaggle.com/oossiiris/data-visualization-techniques">Data Visualization Techniques</a></li><br>
+ <li><a href="https://github.com/r-sajal/Automatic-Attendance-System-Using-Computer-Vision">Automatic-Attendance-System-Using-Computer-Vision</a></li><br>
+ 
 </ul>
 </li>
   
